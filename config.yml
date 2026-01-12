@@ -2,8 +2,8 @@
 title: Katrina Wehr, Ph.D.
 email: katrina.m.wehr@gmail.com
 description: Thoughts on design, research, and learning
-baseurl: "" # Leave empty if using username.github.io, or "/blog" if subdirectory
-url: "https://katrinawehr-blog.github.io" # Change to your actual URL
+baseurl: "/drkatwehr-blog" # Leave empty if using username.github.io, or "/blog" if subdirectory
+url: "https://kat-wehr.github.io" # Change to your actual URL
 
 # Build settings
 markdown: kramdown

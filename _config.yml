@@ -1,5 +1,6 @@
 # Site settings
 title: Katrina Wehr, Ph.D.
+custom_title: Katrina Wehr, Ph.D.
 email: katrina.m.wehr@gmail.com
 description: Notes on design, research, and learning
 baseurl: "/drkatwehr-blog" # Leave empty if using username.github.io, or "/blog" if subdirectory

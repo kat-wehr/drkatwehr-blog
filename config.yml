@@ -1,7 +1,7 @@
 # Site settings
 title: Katrina Wehr, Ph.D.
 email: katrina.m.wehr@gmail.com
-description: Thoughts on design, research, and learning
+description: Notes on design, research, and learning
 baseurl: "https://kat-wehr.github.io/drkatwehr-blog" # Leave empty if using username.github.io, or "/blog" if subdirectory
 url: "https://kat-wehr.github.io/drkatwehr-blog" # Change to your actual URL
 
